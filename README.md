@@ -13,8 +13,9 @@ Este projeto demonstra o uso de SQL para realizar análises de dados em um banco
 ---
 
 ## **📁 Estrutura do Banco de Dados**
-- **`database_schema.png`**: Diagrama do banco de dados.
-  
+- **`Tabelas do banco de dados`**
+![Database Schema](image.png)
+
 ---
 
 ## **🛠 Pré-requisitos**
